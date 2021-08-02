@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: cloud-compliance.html 
+keywords: announcements, documentation, cloud compliance 
+summary: 在 2019 年年底之前，我们在 Cloud Manager 文档中添加了 Cloud Compliance 服务的内容。 
+last_modified: 22-Jan-2020 
+---
+= 适用于云合规性的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在 2019 年年底之前，我们在 Cloud Manager 文档中为 Cloud Compliance 服务添加了内容。
+
+云合规性是一项适用于 AWS 和 Azure 中 Cloud Volumes ONTAP 的数据隐私和合规服务。借助人工智能（ AI ）驱动的技术，云合规性可帮助企业了解数据环境并识别 Cloud Volumes ONTAP 系统中的敏感数据。
+
+Cloud Compliance 通过 Cloud Manager 进行操作和管理。您可以从 Cloud Manager 中的 * 合规性 * 选项卡访问云合规性功能。
+
+转至 https://docs.netapp.com/us-en/occm/concept_cloud_compliance.html["Cloud Manager 文档"] 了解如何开始使用。
+
+image:cloud-compliance.gif["Cloud Manager 文档中的 Cloud Compliance 内容的屏幕截图"]。

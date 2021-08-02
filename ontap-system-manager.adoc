@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: ontap-system-manager.html 
+keywords: announcements, documentation, ontap system manager, system manager 
+summary: ONTAP 9.7 现已全面上市，我们希望宣布，我们在 docs.netapp.com 中添加了针对 ONTAP System Manager 的重新设计内容。 
+last_modified: 23-Jan-2020 
+---
+= 适用于 ONTAP System Manager 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ONTAP 9.7 现已全面上市，我们希望宣布，我们在 docs.netapp.com 中添加了针对 ONTAP System Manager 的重新设计内容。
+
+从 ONTAP 9.7 开始，全新设计的 ONTAP System Manager 通过直观的图形用户界面简化了 ONTAP 管理。新信息板在一个屏幕上显示关键集群状态和性能。
+
+ONTAP System Manager 的文档也进行了全面重新设计。内容易于导航，使用快速方便。观看嵌入式视频，快速概述主要管理任务。
+
+转至 https://docs.netapp.com/us-en/ontap/index.html["ONTAP System Manager 文档"] 开始使用。
+
+image:ontap-system-manager.gif["Cloud Manager 文档中的 Cloud Compliance 内容的屏幕截图"]。

@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: hci-update.html 
+keywords: announcements, documentation, hci, hybrid, cloud 
+summary: 在 NetApp HCI 1.8 版中，我们很高兴地宣布，我们在 docs.netapp.com 中添加了有关 NetApp HCI 的更多信息。 
+last_modified: 29-May-2020 
+---
+= NetApp HCI 的文档更新
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在 NetApp HCI 1.8 版中，我们很高兴地宣布，我们在 docs.netapp.com 中添加了有关 NetApp HCI 的更多信息。
+
+对于此更新，您将看到以下新主题：
+
+* 发行说明部分将 NetApp HCI ， NetApp Element 软件，管理服务和适用于 vCenter Server 的 NetApp Element 插件的新增功能和发行说明汇集在一个位置
+* 全新入门安装和部署概述
+* 有关扩展和监控系统的更多操作说明
+* 一节介绍了基本概念，例如什么是集群和节点，以及如何设置服务质量级别来管理性能
+* 集中管理如何升级 NetApp HCI 端到端，包括如何更新管理服务， HealthTools ， Element 软件和适用于 vCenter Server 的 Element 插件
+
+
+请查看此 NetApp HCI 文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至 https://docs.netapp.com/us-en/hci/docs/index.html["NetApp HCI 文档"^] 开始。
+
+image:hci-update.gif["显示 docs.netapp.com 上 HCI 文档站点的屏幕截图。"]

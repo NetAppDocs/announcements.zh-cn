@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: office365.html 
+keywords: announcements, documentation, office 365, backup, saas backup for office 365 
+summary: '我们为新的 NetApp 服务添加了文档。有关 NetApp SaaS Backup for Office 365 的文档，请参见 https://docs.netapp.com[]。' 
+last_modified: 18-May-2018 
+---
+= 适用于 NetApp SaaS Backup for Office 365 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们为新的 NetApp 服务添加了文档。有关 NetApp SaaS Backup for Office 365 的文档，请参见 https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp SaaS Backup 是一款基于 Web 的安全软件即服务（ SaaS ）产品，可将 Microsoft Office 365 数据备份到 Amazon S3 存储， Microsoft Azure Blob 存储或 StorageGRID Webscale 对象存储。
+
+转至 https://docs.netapp.com/us-en/saasbackupO365/["NetApp SaaS Backup for Office 365 文档"^] 了解如何开始使用。

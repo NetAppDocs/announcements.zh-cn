@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: ontap-select.html 
+keywords: announcements, documentation, ontap select 
+summary: 我们最近将 ONTAP Select 的内容添加到了 GitHub 创作平台中。 
+last_modified: 22-Jan-2020 
+---
+= 适用于 ONTAP Select 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们最近为 ONTAP Select 添加了内容。此内容可以帮助您使用在 VMware ESXi 上运行的 ONTAP Select ，并提供与虚拟机管理程序无关的文档，用于使用 ONTAP Select Deploy REST API 。
+
+我们对这一变化感到兴奋，因为内容创作团队将来自多个来源的内容整合到一个可搜索的在线库中。
+
+了解 ONTAP Select 的这一全新文档体验并为此做出贡献。您可以编辑，请求更改甚至发送反馈。转至 https://docs.netapp.com/us-en/ontap-select/index.html["ONTAP Select 文档"] 开始使用。
+
+image:ontap-select.gif[""]

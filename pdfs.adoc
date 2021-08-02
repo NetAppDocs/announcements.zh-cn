@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: pdfs.html 
+keywords: pdfs, announcement, download pdf, download a pdf 
+summary: 我们已听取您的反馈，并增加了从我们的 HTML 文档下载 PDF 的功能。这样，您可以轻松地随时随地获取我们的内容。 
+last_modified: 28-Apr-2020 
+---
+= 下载 PDF
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们已听取您的反馈，并增加了从我们的 HTML 文档下载 PDF 的功能。这样，您可以轻松地随时随地获取我们的内容。
+
+您可以通过几种不同的方式下载 PDF 。
+
+第一种方法是下载当前正在查看的页面的 PDF 。
+
+image:download-pdf-topic.gif["页面顶部显示的 Download PDF of this topic 选项的屏幕截图。"]
+
+左侧目录上方提供了更多选项。单击 * 下载 PDF* ，您将看到用于生成整个文档站点，整个部分（如果此部分包含多个页面）或您正在查看的页面的 PDF 的选项。
+
+image:download-pdf-toc.gif["目录上方显示的 Download PDF 选项的屏幕截图。"]
+
+我们仍在使用此功能，因此现在请考虑将 " 下载 PDF" 作为测试版功能。有几个已知问题，例如 PDF 中指向 HTML 页面的链接。
+
+您是否注意到 PDF 标题页面底部的日期消息？我们之所以这样做，是因为我们不断更新和改进我们的内容，因此您应该计划短时间使用这些 PDF 。例如，如果您要乘坐航班或要前往无法访问互联网的安全位置，这些功能将非常有用。你不应该在几个月后再引用这份 PDF ——它很可能会过时。请务必下载最新内容。

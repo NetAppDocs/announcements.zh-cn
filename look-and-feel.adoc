@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: look-and-feel.html 
+keywords: announcements, documentation, user experience, layout, style, breadcrumbs, contribute 
+summary: 我们很高兴地宣布，我们在 docs.netapp.com 上改进了 GitHub 文档的用户体验。这些变更为 NetApp 在线内容提供了更加一致的体验。 
+last_modified: 17-Mar-2020 
+---
+= 增强的用户体验
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们很高兴地宣布，我们已在上增强了基于 GitHub 的文档的用户体验 https://docs.netapp.com["docs.netapp.com"]。这些变更为 NetApp 在线内容提供了更加一致的体验。
+
+
+
+== 布局和风格
+
+现在，文档的布局和风格与您在 netapp.com 上看到的更加相似。其中包括字体和颜色，左右导航布局以及页眉和页脚。
+
+image:layout.gif[""]
+
+
+
+== 痕迹
+
+我们添加了痕迹，便于您在 NetApp 文档中导航。例如，您可以单击 * 文档 * 返回 docs.netapp.com 。
+
+image:breadcrumbs.gif[""]
+
+
+
+== 要提供的链接
+
+为我们的内容提供支持的链接已整合到页面级导航之上。滚动浏览内容时，这些链接始终可见。因此，如果您在页面的任意位置找到问题描述，则可以单击按钮直接提交更改或向我们提供反馈。
+
+image:contribute.gif[""]

@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: converged-systems-advisor.html 
+keywords: announcements, documentation, converged systems advisor, csa 
+summary: '有关 Converged Systems Advisor 的文档，请参见 https://docs.netapp.com[]。' 
+last_modified: 12-Sep-2018 
+---
+= 适用于 Converged Systems Advisor 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+有关 Converged Systems Advisor 的文档，请参见 https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp 融合系统顾问可验证，监控和优化 FlexPod 融合基础架构的部署，以确保业务应用程序获得最佳性能和可用性。
+
+转至 https://docs.netapp.com/us-en/converged-systems-advisor/["Converged Systems Advisor 文档"^] 了解如何开始使用。
+
+image:converged-systems-advisor.gif[""]

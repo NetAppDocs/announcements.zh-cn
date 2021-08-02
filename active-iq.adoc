@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: active-iq.html 
+keywords: announcements, documentation, netapp active iq, active iq 
+summary: '有关 NetApp Active IQ 的文档，请参见 https://docs.netapp.com[]。' 
+last_modified: 03-Apr-2019 
+---
+= 适用于 NetApp Active IQ 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+有关 NetApp Active IQ 的文档，请参见 https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp Active IQ 智能引擎是一种基于云的服务，可提供预测性分析和主动式支持，以优化 NetApp 混合云中的运营。
+
+转至 https://docs.netapp.com/us-en/active-iq/["Active IQ 文档"^] 了解如何开始使用。
+
+image:active-iq.gif[""]

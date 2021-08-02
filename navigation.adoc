@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: navigation.html 
+keywords: announcements, navigation, on this page 
+summary: 现在，包含多个标题的每个页面都包含页面级导航。 
+last_modified: 26-Nov-2018 
+---
+= 页面级导航
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+现在，包含多个部分的每个页面都包含页面级导航。
+
+通过此增强功能，您可以轻松地在滚动时查看所处位置，并跳至页面上的特定部分。
+
+image:navigation.gif[""]

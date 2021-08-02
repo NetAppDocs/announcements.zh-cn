@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: cloud-insights.html 
+keywords: announcements, documentation, cloud insights 
+summary: 有关 NetApp 新 Cloud Insights 服务的文档，请访问 docs.netapp.com 。 
+last_modified: 17-Jun-2018 
+---
+= 适用于 Cloud Insights 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+有关 NetApp 新 Cloud Insights 服务的文档，请参见 https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp Cloud Insights 是一款云基础架构监控工具，可让您深入了解整个基础架构。借助 Cloud Insights ，您可以监控，排除故障并优化所有资源，包括公有云和私有数据中心。
+
+转至 https://docs.netapp.com/us-en/cloudinsights/["Cloud Insights 文档"^] 了解如何开始使用。

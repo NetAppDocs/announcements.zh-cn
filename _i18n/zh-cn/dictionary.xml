@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="e24c5b58e2d9896cb97f9c2b3319aba5" category="summary">我们更新了我们的贡献者指南，以涵盖在 GitHub 中托管的 NetApp 文档的风格和语法。</block>
+  <block id="88dee452ae0859a30045db56c941e7a0" category="doc">样式指南和语法参考</block>
+  <block id="e5ae3e8cef11a090cc3acaa905030eca" category="inline-link">贡献者指南</block>
+  <block id="926b60e1a6c51073fbbc63f83d98d4fc" category="paragraph">我们已更新<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block> 介绍 GitHub 中存储的 NetApp 文档的风格和语法。</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-image-macro"></block>
+  <block id="8e1e340c21a62417919b757c373d41dc" category="paragraph"><block ref="8e1e340c21a62417919b757c373d41dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="62031e5204e801a849a91204c9d6aa95" category="paragraph">出于多种原因，我们开始将部分内容存储在 GitHub 中。其中一个重要原因是让我们的社区做出贡献。NetApp 文档更好，因为我们的客户，合作伙伴和 NetApp 员工都能提供反馈。</block>
+  <block id="2fda5e49e611c72a25c5331ceac4b342" category="paragraph">提供反馈的一种方式是编辑 GitHub 中存储的源内容：</block>
+  <block id="2076081b3709235f99d2bf1e586bd408" category="paragraph"><block ref="2076081b3709235f99d2bf1e586bd408" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a7c254e29c6a4c50c012d4dc15595011" category="paragraph">为了帮助您提交内容更新，我们在中添加了以下内容<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block>：</block>
+  <block id="88c3dc92387f534cb0d262ec1e8f1bb2" category="list-text">NetApp 文档风格指南</block>
+  <block id="2ba2bed86469c810fc6b6d899717fec1" category="list-text">按照此轻型指南了解 NetApp 文档的风格：对话和同理心，但重点不在。</block>
+  <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="list-text">AsciiDoc 参考</block>
+  <block id="284ecb4c0849131653777dab0472c4ef" category="list-text">请参考此文档，了解 AsciDoc 语法，它是一种轻量化标记语言，类似于 Markdown 。</block>
+  <block id="86af32105323ac0935a0f85e2aeeb711" category="paragraph">我们希望这些资源对您有所帮助，并参与为 NetApp 文档提供的内容。如果您不想直接编辑源内容，仍然可以单击 * 请求文档更改 * 来提供反馈。我们将查看您的反馈并从中获取反馈。</block>
+  <block id="0962bcdca78ea05e7fbf19a898a97dfe" category="paragraph">很高兴做出贡献！</block>
+  <block id="c89c5cd70f32a26ff845a27e3bedf342" category="summary">我们为新的 NetApp 服务添加了文档。有关 NetApp SaaS Backup for Office 365 的文档，请参见<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="f99682d5106b8f6376000b302724aaf4" category="doc">适用于 NetApp SaaS Backup for Office 365 的文档</block>
+  <block id="f8bf3ad3550f95af891e242fcfff7b8a" category="inline-link">docs.netapp.com</block>
+  <block id="692681554fa8fd3449c7299b20170009" category="paragraph">我们为新的 NetApp 服务添加了文档。有关 NetApp SaaS Backup for Office 365 的文档，请参见<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="53af803bffa7f24980c4a26f63154396" category="paragraph">NetApp SaaS Backup 是一款基于 Web 的安全软件即服务（ SaaS ）产品，可将 Microsoft Office 365 数据备份到 Amazon S3 存储， Microsoft Azure Blob 存储或 StorageGRID Webscale 对象存储。</block>
+  <block id="0237411d804ba48104d618038a005a16" category="inline-link">NetApp SaaS Backup for Office 365 文档</block>
+  <block id="d063e730c1cd393851bdcddd47c6a32c" category="paragraph">转至<block ref="89aa0d274c3077d7640c3c6450ece73b" category="inline-link-rx"></block> 了解如何开始使用。</block>
+  <block id="584cd3a08ba716abaa71859ee4023e37" category="summary">我们很高兴地宣布，我们在 docs.netapp.com 上改进了 GitHub 文档的用户体验。这些变更为 NetApp 在线内容提供了更加一致的体验。</block>
+  <block id="1a5143bbde5a332ba63e43fb6f6adb93" category="doc">增强的用户体验</block>
+  <block id="f067aed48d152712839b17f2e943de83" category="paragraph">我们很高兴地宣布，我们已在上增强了基于 GitHub 的文档的用户体验<block ref="09765d13a2c7e990410fb33027d9cebd" category="inline-link-rx"></block>。这些变更为 NetApp 在线内容提供了更加一致的体验。</block>
+  <block id="31bd5ffbed535a9ad92dfd564b8ff05c" category="section-title">布局和风格</block>
+  <block id="bbcdcf5d47357b33df71fd5d58d48870" category="paragraph">现在，文档的布局和风格与您在 netapp.com 上看到的更加相似。其中包括字体和颜色，左右导航布局以及页眉和页脚。</block>
+  <block id="cf9334cd99a89b490ffa44f86462e733" category="paragraph"><block ref="cf9334cd99a89b490ffa44f86462e733" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6e1229499240644bcf841f10a176bcd6" category="section-title">痕迹</block>
+  <block id="488c1604476862b77fe053c7bf7b6c5c" category="paragraph">我们添加了痕迹，便于您在 NetApp 文档中导航。例如，您可以单击 * 文档 * 返回 docs.netapp.com 。</block>
+  <block id="b483cae019f93373053707d21a4caea7" category="paragraph"><block ref="b483cae019f93373053707d21a4caea7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="57298c3120d668e00ef2b29738832952" category="section-title">要提供的链接</block>
+  <block id="105cb06c1bb1ca199df198a2ad98f866" category="paragraph">为我们的内容提供支持的链接已整合到页面级导航之上。滚动浏览内容时，这些链接始终可见。因此，如果您在页面的任意位置找到问题描述，则可以单击按钮直接提交更改或向我们提供反馈。</block>
+  <block id="ef1344af1891770b6ba7e34326b207bf" category="paragraph"><block ref="ef1344af1891770b6ba7e34326b207bf" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="46d9aeeb3e6be5318a575af8352534c9" category="summary">有关 NetApp Active IQ 的文档，请参见<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="b8aad932978a2978b376b7a6897e0390" category="doc">适用于 NetApp Active IQ 的文档</block>
+  <block id="331658451af5c246947672f876cc30ae" category="paragraph">有关 NetApp Active IQ 的文档，请参见<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="d81ef71405d0d4b4daee2a3423013bbb" category="paragraph">NetApp Active IQ 智能引擎是一种基于云的服务，可提供预测性分析和主动式支持，以优化 NetApp 混合云中的运营。</block>
+  <block id="838806ac97500ec8420a6b2811220c16" category="inline-link">Active IQ 文档</block>
+  <block id="26340c92a14b94f57f49d510e904a60d" category="paragraph">转至<block ref="df7b0f437c501ac5338884e339501425" category="inline-link-rx"></block> 了解如何开始使用。</block>
+  <block id="591b9879d46f270469204bb1b54cb905" category="paragraph"><block ref="591b9879d46f270469204bb1b54cb905" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="803bd26955836f9634f10ba8af48614f" category="summary">我们已听取您的反馈，并增加了从我们的 HTML 文档下载 PDF 的功能。这样，您可以轻松地随时随地获取我们的内容。</block>
+  <block id="bbb76505e315b9dd1f97ba9cb0022054" category="doc">下载 PDF</block>
+  <block id="7df391c285d7e6c78e86d5a5d8e85dfc" category="paragraph">您可以通过几种不同的方式下载 PDF 。</block>
+  <block id="5e96e0c965637e8d0d23689cd0a46cd8" category="paragraph">第一种方法是下载当前正在查看的页面的 PDF 。</block>
+  <block id="821a5ebb1d51d03da65c0dea068a08f3" category="inline-image-macro">页面顶部显示的 Download PDF of this topic 选项的屏幕截图。</block>
+  <block id="4c5481577310f0287a454a3cc7910d93" category="paragraph"><block ref="4c5481577310f0287a454a3cc7910d93" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="acfa8c54da0a1579d3178a4319523caf" category="paragraph">左侧目录上方提供了更多选项。单击 * 下载 PDF* ，您将看到用于生成整个文档站点，整个部分（如果此部分包含多个页面）或您正在查看的页面的 PDF 的选项。</block>
+  <block id="0d31ed50fefdac3efe21b5296f6c66fd" category="inline-image-macro">目录上方显示的 Download PDF 选项的屏幕截图。</block>
+  <block id="404b24c932f447075943208512d66e57" category="paragraph"><block ref="404b24c932f447075943208512d66e57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a70913baf52c93bdadc18f8174f4bde" category="paragraph">我们仍在使用此功能，因此现在请考虑将 " 下载 PDF" 作为测试版功能。有几个已知问题，例如 PDF 中指向 HTML 页面的链接。</block>
+  <block id="0f026a26434684b72316596393024ebd" category="paragraph">您是否注意到 PDF 标题页面底部的日期消息？我们之所以这样做，是因为我们不断更新和改进我们的内容，因此您应该计划短时间使用这些 PDF 。例如，如果您要乘坐航班或要前往无法访问互联网的安全位置，这些功能将非常有用。你不应该在几个月后再引用这份 PDF ——它很可能会过时。请务必下载最新内容。</block>
+  <block id="9a21351cef909121f2a9b6debcfed246" category="summary">我们已将 GitHub 中所有 NetApp 技术文档存储库的默认分支从 master 重命名为 main 。这一变更是我们为删除技术文档中的非包容性语言而持续努力的一部分。</block>
+  <block id="2e4729496d2bbed6bff0232599f76326" category="doc">默认分支已重命名为 "main"</block>
+  <block id="d3b7c913cd04ebfec0e9ec32cb6fd58c" category="inline-link">GitHub</block>
+  <block id="25efe773c4e9de42eb91ab02141aff94" category="paragraph">我们已将中所有 NetApp 技术文档存储库的默认分支从 master 重命名为 main<block ref="71990f224cf870094b63b8dd2aea55d0" category="inline-link-rx"></block>。这一变更是我们为删除技术文档中的非包容性语言而持续努力的一部分。</block>
+  <block id="ecad71bc237a38b4607e5135538231ee" category="paragraph"><block ref="ecad71bc237a38b4607e5135538231ee" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="73d58b632dfae1d33e39c28c1d5ddd1a" category="summary">NetApp HCI 云服务和解决方案文档现已发布。</block>
+  <block id="36317b19455648745096575e2574f10b" category="doc">适用于 NetApp HCI 的文档</block>
+  <block id="9fd220153734575a48bb738a083f5aaf" category="paragraph">我们添加了文档，用于在 NetApp HCI 上启用云服务以及访问 NetApp HCI 解决方案目录。</block>
+  <block id="cde6f89ae8cc04677a4695632fa9b67f" category="inline-link">NetApp HCI 云服务和解决方案</block>
+  <block id="2bde1a8d8db69aa0dee1f98e01e72346" category="paragraph">转至<block ref="61b1a239d4e5189a8d59d81af4ca9e1e" category="inline-link-rx"></block> 了解如何在 NetApp HCI 上开始使用云服务，以及如何将解决方案与 NetApp HCI 结合使用。</block>
+  <block id="9aec5175c3af133ad3547b84d767e6de" category="paragraph">云服务信息介绍了如何使用 NetApp HCI 混合云控制启用云服务，如何使用 NetApp Kubernetes Service 创建集群和快速部署应用程序以及如何使用 NetApp Fabric Orchestrator 在 NetApp HCI 上创建云卷。Fabric Orchestrator 是一个集中式存储和数据管理控制平面，可在任何位置发现和管理存储资产和数据资产。</block>
+  <block id="a123afb0a5e473d260a319e6afe8f936" category="inline-image-macro">NetApp HCI 云服务文档</block>
+  <block id="1fdfe244ff4d1182c2de92ba8cba2a4b" category="paragraph"><block ref="1fdfe244ff4d1182c2de92ba8cba2a4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="38accc9f8c554b6f186652a6a450c0fd" category="paragraph">我们还添加了 NetApp HCI 解决方案目录，该目录可为客户提供部署和运行私有云所需的信息，支持涵盖内部和外部的各种使用情形。NetApp HCI 解决方案可在 DevOps ，最终用户计算，企业级应用程序，人工智能，数据保护和 Data Fabric 管理等技术领域为公有，私有云，混合云和多云提供增值功能。</block>
+  <block id="aad773c64100f77a8f265003d71729f6" category="inline-image-macro">NetApp HCI 解决方案目录</block>
+  <block id="53bb917009114360f67dfe77bf7b5cc1" category="paragraph"><block ref="53bb917009114360f67dfe77bf7b5cc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="780dddb5c0d19186b6d43b2527f34dc1" category="summary">现在，文档中的每个页面都包含 GitHub 中为该页面做出贡献的人员的 avatars 。这一变更有助于实现我们的目标，即让 NetApp Docs 成为社区驱动型企业。</block>
+  <block id="d34fd20c27f77dcf17ccc607334738c5" category="doc">GitHub 为内容贡献者提供了支持</block>
+  <block id="ef98abaa338a36d07c1350b364c8bfee" category="paragraph">您将看到通过创建提取请求对源内容进行更改的任何用户的 GitHub 头像。贡献者可以是客户， NetApp 合作伙伴或员工。以下是一个示例：</block>
+  <block id="c69bb86131e52f76221ffee2cae52cb9" category="paragraph"><block ref="c69bb86131e52f76221ffee2cae52cb9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="eae8dde81953aaa19bfa5f8d57a7abec" category="paragraph">无论您是专家还是新手，都可以提交对内容的更改，您的贡献都将得到极大的关注。</block>
+  <block id="6e7df42f97b0cd6ecba29faec584550f" category="paragraph">请注意， avatars 足够小，每次查看文档通过时，您都不会被 NetApp 作者的脸所淹没： [&amp;#128521 ； ]</block>
+  <block id="e29784e3d5c940145771b8ec1f0d2361" category="summary">有关 NetApp 全新 Cloud Tiering 服务的文档，请参见<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="a23936500ee528b456b34733d186d6a2" category="doc">适用于云分层的文档</block>
+  <block id="92e80b6c1b180e7fecd04cd78e3a8237" category="paragraph">有关 NetApp 全新 Cloud Tiering 服务的文档，请参见<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="a75a80ee13edb26298fa1c272d69a5b4" category="paragraph">基于 NetApp FabricPool 技术， Cloud Tiering 可识别 ONTAP 集群中不常用的数据，并自动无缝地将这些数据迁移到云中的低成本对象存储。</block>
+  <block id="18b67cdd6c50872fa0de2de9dfd11343" category="inline-link">Cloud Tiering 文档</block>
+  <block id="163d026b849195b6f6272437e6a79209" category="paragraph">转至<block ref="807e3f80ca0c2c5e2529f8974c05a3ad" category="inline-link-rx"></block> 了解如何开始使用。</block>
+  <block id="6c3ecb751bd708b13e900094cf942926" category="paragraph"><block ref="6c3ecb751bd708b13e900094cf942926" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="37a8cfd772c8abc4580a796f3269f47c" category="summary">我们已在文档中的每个 " 新增功能 " 页面中添加了一个 "rs" 按钮，以便您可以在您喜爱的 "rss 源读者 " 中接收内容更新。这些订阅源可以让您随时了解 NetApp 产品和服务中引入的新功能和增强功能。</block>
+  <block id="f9d2bef3f933675408363de6ee6befcc" category="doc">有关新增内容的 rss 源和 #8217</block>
+  <block id="1457e49f8dccec856889afc7198d7b7f" category="inline-link">云分层服务</block>
+  <block id="3872ba83279a8e314096c5b922d90428" category="paragraph">转到您感兴趣的产品或服务的 " 新增功能 " 页面。以下是的示例<block ref="d4507f8d464d714b843db28c6932e942" category="inline-link-rx"></block>：</block>
+  <block id="6748f7beddaefd31416ca3654ffdf13c" category="paragraph"><block ref="6748f7beddaefd31416ca3654ffdf13c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d22d4e22b331006dc0f8853a7bda8e1f" category="paragraph">根据您的订阅源读取器，复制页面 URL 或单击 * 订阅 * 并复制订阅源 URL 。在读者中搜索 URL 并开始关注。每次更新页面时，您都应在源中收到更新。</block>
+  <block id="45f90aa9fdda1e160068ad1d4c7e4668" category="summary">我们最近将 ONTAP Select 的内容添加到了 GitHub 创作平台中。</block>
+  <block id="bb3dde2aa0cf6fd38af6d0f43b2a1619" category="doc">适用于 ONTAP Select 的文档</block>
+  <block id="2aaef326b401424ff55fdde68a0ce593" category="paragraph">我们最近为 ONTAP Select 添加了内容。此内容可以帮助您使用在 VMware ESXi 上运行的 ONTAP Select ，并提供与虚拟机管理程序无关的文档，用于使用 ONTAP Select Deploy REST API 。</block>
+  <block id="7f6004388e43ebb6b892401a47be0905" category="paragraph">我们对这一变化感到兴奋，因为内容创作团队将来自多个来源的内容整合到一个可搜索的在线库中。</block>
+  <block id="7436b418bed093768e360d32105591d2" category="inline-link">ONTAP Select 文档</block>
+  <block id="4e5d48997630055674b3aae770fcd98d" category="paragraph">了解 ONTAP Select 的这一全新文档体验并为此做出贡献。您可以编辑，请求更改甚至发送反馈。转至<block ref="45a93879d4bb7abd51fafccb0f35f591" category="inline-link-rx"></block> 开始使用。</block>
+  <block id="49d9378e00193fa4d854bd382df3826d" category="paragraph"><block ref="49d9378e00193fa4d854bd382df3826d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="40aa38e48fe3025b432fc9c6a94ab755" category="summary">我们很高兴地宣布，基于 GitHub 的第一个文档站点已启动— clouddocs.netapp.com—which 目前托管 Cloud Manager 和 Cloud Sync 的文档。</block>
+  <block id="4731c959d36b32dd74134e1ed0b99b5a" category="doc">在 GitHub 中介绍 NetApp 文档</block>
+  <block id="07e8aa1a0c3839dc4b101b0ce1bb688e" category="paragraph">这些文档以 AsciDoc （类似于 Markdown 的轻型格式）编写，存储在 GitHub 存储库中，并在上作为 HTML 内容提供<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="7efbb7e06719718f77e4c61c1df3ef2c" category="paragraph">这种全新的文档体验提供了一些主要优势：</block>
+  <block id="ba24c1c2eed9743b34852d4d56fafb6f" category="list-text">快速更新内容</block>
+  <block id="d82ec879ebd0f625cde5edcd5f0465e7" category="paragraph">我们正在利用云和开源资源来加快产品发布速度。</block>
+  <block id="ba9cb4c86128c400ab65fb7eca598e2d" category="list-text">社区贡献</block>
+  <block id="c875224f829e6299b37bced748c147d7" category="paragraph">我们通过为任何人推荐实时编辑和增强功能，缩短了 NetApp 作者与客户之间的距离。</block>
+  <block id="1ca59b86cbef98a8be3dbcecdbbfeda5" category="list-text">响应迅速的设计</block>
+  <block id="b89f5008d8de8f5c78118ec3b9792b65" category="paragraph">该站点为用于访问 NetApp 文档的任何设备提供了响应式布局。</block>
+  <block id="714a2e829fbe98dc44280f88e6c37ca0" category="paragraph">我们计划不断改进该站点，并随着时间的推移添加更多内容。我们希望您喜欢它，我们期待您提供任何反馈。</block>
+  <block id="61979eb9db3f70d394e48b62f4ad0066" category="summary">在 NetApp HCI 1.8 版中，我们很高兴地宣布，我们在 docs.netapp.com 中添加了有关 NetApp HCI 的更多信息。</block>
+  <block id="09d3cdfa12532557da8f388da94bb9dc" category="doc">NetApp HCI 的文档更新</block>
+  <block id="3ac61f5bf03fee02a7ddc42d3ea4781b" category="paragraph">对于此更新，您将看到以下新主题：</block>
+  <block id="606a51c60a9c4da8c6957f2168b65638" category="list-text">发行说明部分将 NetApp HCI ， NetApp Element 软件，管理服务和适用于 vCenter Server 的 NetApp Element 插件的新增功能和发行说明汇集在一个位置</block>
+  <block id="d68a4bb73faabdd47991f68fc53d5c87" category="list-text">全新入门安装和部署概述</block>
+  <block id="3faaf4e0bd5f23a3b3706084a4d854e0" category="list-text">有关扩展和监控系统的更多操作说明</block>
+  <block id="3bdbd3cae79b223b93743379b90c491c" category="list-text">一节介绍了基本概念，例如什么是集群和节点，以及如何设置服务质量级别来管理性能</block>
+  <block id="cc2b34920ded911cf771871876c49b69" category="list-text">集中管理如何升级 NetApp HCI 端到端，包括如何更新管理服务， HealthTools ， Element 软件和适用于 vCenter Server 的 Element 插件</block>
+  <block id="a097e3c464424bd17a692aab63c4ca1c" category="inline-link">NetApp HCI 文档</block>
+  <block id="9d50d0dc54845ab1bf1003ff0efd319d" category="paragraph">请查看此 NetApp HCI 文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至<block ref="6f1ab4c6ddf47e4328cf379fafe3b17d" category="inline-link-rx"></block> 开始。</block>
+  <block id="977d060fa712ca5cada2a4970afaa133" category="inline-image-macro">显示 docs.netapp.com 上 HCI 文档站点的屏幕截图。</block>
+  <block id="ca35e8cf90586807dac031bf95a384b8" category="paragraph"><block ref="ca35e8cf90586807dac031bf95a384b8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c2090ebcb81deebf8dfe7bcc3bf5b97e" category="doc">NetApp 文档公告</block>
+  <block id="7c96569c18e233bc3aa0c678f6c737a3" category="paragraph">2018 年 2 月，我们在上发布了基于 GitHub 的文档<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>的目标是更快地为您提供内容，同时为社区做出贡献。我们不断添加新内容并改进内容体验。请观看此页面，了解最新变更信息。</block>
+  <block id="76d676de13da507e21b2b97274f3143d" category="paragraph">以下是最新公告：</block>
+  <block id="d1562fb6b39b6bdf3504b3a6ccfef304" category="list-text"><block ref="e5f966226f45758ecad5359af5797bd3" category="inline-link-macro-rx"></block> （ 2021 年 3 月 5 日）</block>
+  <block id="b629fc52d1588569a2f633d0a7e6adc9" category="inline-link-macro">HCI 文档更新</block>
+  <block id="cd366322ff81f4650796a83a5cfb317f" category="list-text"><block ref="734da8f95796052311327721f0c6b1ce" category="inline-link-macro-rx"></block> （ 2020 年 5 月 29 日）</block>
+  <block id="a1622d0a07d6f6b9a8e538aada0593dd" category="list-text"><block ref="39b5be9799c0610a32f935e5d1141695" category="inline-link-macro-rx"></block> （ 2020 年 4 月 28 日）</block>
+  <block id="6dfa38e97fe16150c4ca6689c6d3a881" category="list-text"><block ref="fcd05649c33944b070e8a09a7085bc92" category="inline-link-macro-rx"></block> （ 2020 年 3 月 17 日）</block>
+  <block id="ac4fe0f8f82391e062ef9b8420631194" category="inline-link-macro">适用于 ONTAP System Manager 的文档</block>
+  <block id="f2c46dc66240138596000a911fc329dc" category="list-text"><block ref="98eb39d84bcd9d653ee2d5119e96969a" category="inline-link-macro-rx"></block> （ 2020 年 1 月 23 日）</block>
+  <block id="ab4385c6ca35951b4efd0c2871095944" category="inline-link-macro">适用于云合规性的文档</block>
+  <block id="022fd1890be2f8ba7b5bfc8d526e1e35" category="list-text"><block ref="4746811d90ba44b4592b64974c6ec5db" category="inline-link-macro-rx"></block> （ 2020 年 1 月 22 日）</block>
+  <block id="de30ff0f7799bed8eaaffc3aa67c5f68" category="list-text"><block ref="63b2dfcd546a008996cc1a93eb83b957" category="inline-link-macro-rx"></block> （ 2020 年 1 月 22 日）</block>
+  <block id="833e732ee0444267bc1da174548ba78a" category="inline-link-macro">适用于 NetApp HCI 云服务和解决方案的文档</block>
+  <block id="273139a524e7ad006693d5672eb1fc67" category="list-text"><block ref="db7f04ef74afc79fc47f0b23f0640d8f" category="inline-link-macro-rx"></block> （ 2019 年 11 月 22 日）</block>
+  <block id="abec09ebabb20833adcb20f5e75b9a70" category="list-text"><block ref="22c0178ce857453e48ff3794fa4dfd93" category="inline-link-macro-rx"></block> （ 2019 年 10 月 24 日）</block>
+  <block id="c3d2f664da493cc1d2eed39d199804b3" category="summary">在 2019 年年底之前，我们在 Cloud Manager 文档中添加了 Cloud Compliance 服务的内容。</block>
+  <block id="dd817f8b8470692ef67440abe8b9db70" category="paragraph">在 2019 年年底之前，我们在 Cloud Manager 文档中为 Cloud Compliance 服务添加了内容。</block>
+  <block id="c6527133a9a1d75014c953711e81902d" category="paragraph">云合规性是一项适用于 AWS 和 Azure 中 Cloud Volumes ONTAP 的数据隐私和合规服务。借助人工智能（ AI ）驱动的技术，云合规性可帮助企业了解数据环境并识别 Cloud Volumes ONTAP 系统中的敏感数据。</block>
+  <block id="4784fe79d9263a540b730e0503eb61b6" category="paragraph">Cloud Compliance 通过 Cloud Manager 进行操作和管理。您可以从 Cloud Manager 中的 * 合规性 * 选项卡访问云合规性功能。</block>
+  <block id="b3a853d57fdef5749cc6f40650ebaac6" category="inline-link">Cloud Manager 文档</block>
+  <block id="0aefd0af975c621b20d1d95f7e5bc455" category="paragraph">转至<block ref="66669ae9fe144d67be852fbb8a9637b7" category="inline-link-rx"></block> 了解如何开始使用。</block>
+  <block id="32c1167790191e2571d7b60db822fb75" category="inline-image-macro">Cloud Manager 文档中的 Cloud Compliance 内容的屏幕截图</block>
+  <block id="0a86bd8d14317490dc24f9732292c565" category="paragraph"><block ref="26d34e6669f802b514bbe8a76eba996a" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="9dda9c5cdd8115b872f0ef35be3fcdd5" category="summary">ONTAP 9.7 现已全面上市，我们希望宣布，我们在 docs.netapp.com 中添加了针对 ONTAP System Manager 的重新设计内容。</block>
+  <block id="25b7b300a479a551c3d57923603926e8" category="paragraph">从 ONTAP 9.7 开始，全新设计的 ONTAP System Manager 通过直观的图形用户界面简化了 ONTAP 管理。新信息板在一个屏幕上显示关键集群状态和性能。</block>
+  <block id="0158860f13c021906b67d200c7689058" category="paragraph">ONTAP System Manager 的文档也进行了全面重新设计。内容易于导航，使用快速方便。观看嵌入式视频，快速概述主要管理任务。</block>
+  <block id="e8726682a54ea85f2123db66fd54ec79" category="inline-link">ONTAP System Manager 文档</block>
+  <block id="7cce11cd1cef1f48e143e578d0a9e9ba" category="paragraph">转至<block ref="3a5e4656d39a4651c31e49e8beb7805d" category="inline-link-rx"></block> 开始使用。</block>
+  <block id="7c21f38d01aad6cad1d0f32633893bed" category="paragraph"><block ref="500e4723e9fa4087959db6af3e0c371a" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="d4c2619be7bff9d7e1cabee8c8ca76a9" category="summary">我们为新的 NetApp 服务添加了文档。有关 Cloud Volumes Service for AWS 的文档，请参见<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="5e2bff150b9b10db5641b203d743226f" category="doc">适用于 Cloud Volumes Service for AWS 的文档</block>
+  <block id="42b7b123029134ca57803f12fa93b504" category="paragraph">我们为新的 NetApp 服务添加了文档。有关 Cloud Volumes Service for AWS 的文档，请参见<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="cffa933a10458e8374fbef2e21507c9d" category="paragraph">NetApp Cloud Volumes Service for AWS 是一种云原生文件服务，可通过 NFS 和 SMB 提供具有全闪存性能的 NAS 卷。此服务支持在 AWS 云中运行任何工作负载，包括原有应用程序。</block>
+  <block id="0f707acb7e2394436734d74b239bd7a4" category="inline-link">Cloud Volumes Service for AWS 文档</block>
+  <block id="0d08fd30c4ea287e35a236c1ce0f50a3" category="paragraph">转至<block ref="d214a539d749c7864af274ea2d9c8830" category="inline-link-rx"></block> 了解如何开始使用。</block>
+  <block id="bdfcc723b96e5627c5dd7669de58ce64" category="summary">有关 Converged Systems Advisor 的文档，请参见<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="cb773a80fe34f37583813b5d6bbf54e7" category="doc">适用于 Converged Systems Advisor 的文档</block>
+  <block id="9cb6bb5e9ff16479c39d0bcf8f913663" category="paragraph">有关 Converged Systems Advisor 的文档，请参见<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="7a49965d9cfff28dae6c97f9b420a932" category="paragraph">NetApp 融合系统顾问可验证，监控和优化 FlexPod 融合基础架构的部署，以确保业务应用程序获得最佳性能和可用性。</block>
+  <block id="e9b2694df761ec3149dc627f508ad225" category="inline-link">Converged Systems Advisor 文档</block>
+  <block id="c345c0285df3270d26e03091c3ce0902" category="paragraph">转至<block ref="85d1a394d8d07c1de98158553304dd41" category="inline-link-rx"></block> 了解如何开始使用。</block>
+  <block id="6ef1daab3112a138119ab68a54297214" category="paragraph"><block ref="6ef1daab3112a138119ab68a54297214" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4749b60d80ac603c59d60d492218a4d4" category="summary">有关 NetApp 新 Cloud Insights 服务的文档，请访问 docs.netapp.com 。</block>
+  <block id="e8947ead1bdab019f82cf3b6ff399971" category="doc">适用于 Cloud Insights 的文档</block>
+  <block id="2d4906ecd3e840e50a951925c4d89134" category="paragraph">有关 NetApp 新 Cloud Insights 服务的文档，请参见<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="b6569b5a5429e43ea4e566ae989fd3e6" category="paragraph">NetApp Cloud Insights 是一款云基础架构监控工具，可让您深入了解整个基础架构。借助 Cloud Insights ，您可以监控，排除故障并优化所有资源，包括公有云和私有数据中心。</block>
+  <block id="5858ee4031acd7b896faa2d3d2c1a299" category="inline-link">Cloud Insights 文档</block>
+  <block id="995ff0c46344da03464527cbcfcbebb1" category="paragraph">转至<block ref="58c5925e5196942f30b30cb2d55d4ec2" category="inline-link-rx"></block> 了解如何开始使用。</block>
+  <block id="d9ece361cbf81c60c155b885f24690f7" category="summary">Cloud Volumes ONTAP 发行说明现已发布在上<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="9cde8b250928656ce8678c8ec126aa0e" category="doc">适用于 Cloud Volumes ONTAP 的文档</block>
+  <block id="de3fb31a8be0599075aba4868ba330b5" category="paragraph">Cloud Volumes ONTAP 发行说明现已发布在上<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="b2aa7f46133e37b27f37944e347ae13a" category="paragraph">Cloud Volumes ONTAP 将数据控制与企业级存储功能相结合，适用于各种使用情形，包括文件共享和块级存储，为 NAS 和 SAN 协议（ NFS ， SMB 和 iSCSI ）提供服务，灾难恢复（ DR ），备份和归档， 开发运营，数据库（ SQL ， Oracle ， NoSQL ）或任何其他企业工作负载。</block>
+  <block id="1a523ba4ece9125275b92ebb41e3cf23" category="inline-link">Cloud Volumes ONTAP 文档</block>
+  <block id="510cd2b19ca2a93141480c35102e1f8f" category="paragraph">转至<block ref="7bcb7b21b5400d7217e9db9c2b1b4ef7" category="inline-link-rx"></block> 以查看发行说明。如果您需要说明如何部署和管理 Cloud Volumes ONTAP 的文档，请参见<block ref="9f7c33b1b6d8fcf4507c738fba5155d5" category="inline-link-rx"></block>。</block>
+  <block id="a8fd82e5e9c6bb55948e04fd6db97539" category="summary">我们为新的 NetApp 服务添加了文档。有关 NetApp SaaS Backup for Salesforce 的文档，请参见<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="128764058687673e348baaa3c18f23a4" category="doc">适用于 NetApp SaaS Backup for Salesforce 的文档</block>
+  <block id="27b3d50bf4a11ca6040fb6e597f7ff41" category="paragraph">我们为新的 NetApp 服务添加了文档。有关 NetApp SaaS Backup for Salesforce 的文档，请参见<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="d031155e704c9f3172521b5694dcd795" category="paragraph">NetApp SaaS Backup 是一种安全的云原生服务，可将 Salesforce 数据备份到 Amazon S3 存储。SaaS Backup 有助于保护您的数据免受威胁或意外删除的影响。</block>
+  <block id="62a1bf19d63cf8abd2a45f03805b1a3a" category="inline-link">NetApp SaaS Backup for Salesforce 文档</block>
+  <block id="fbcea8f4dc514cb9ce5836b06a6d4eeb" category="paragraph">转至<block ref="a4e64802703d44f75fce5d890692ece4" category="inline-link-rx"></block> 了解如何开始使用。</block>
+  <block id="de39e287c52b06825de260bae8849241" category="paragraph"><block ref="de39e287c52b06825de260bae8849241" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5dbdc6054859d79d7c19444a994441fe" category="summary">如果您要请求更改文档，而不是直接编辑源内容，现在可以单击请求文档更改来提供反馈。</block>
+  <block id="951885a0dd056fe4b77aec324c26ddc3" category="doc">请求文档更改</block>
+  <block id="e3c0cf211075637a24931ecc16eab2da" category="paragraph">如果您要请求更改文档，而不是直接编辑源内容，现在可以单击 * 请求文档更改 * 来提供反馈。</block>
+  <block id="d9466ff730e0feb26a154ecb639a35e3" category="paragraph">此新按钮将显示在每个页面的顶部：</block>
+  <block id="32a073aab0022a640d6931b3112d874d" category="paragraph"><block ref="32a073aab0022a640d6931b3112d874d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0db13ffa9ada0395f16f1863f6d002fc" category="paragraph">单击 * 请求文档更改 * 时，系统会提示您创建或登录到 GitHub 帐户（创建帐户既方便又免费）。</block>
+  <block id="d805b5bfc4c9ba3aaaea66a81087fc42" category="paragraph">登录后，将显示一个表单，用于创建新的 GitHub 问题描述。此文本框会预先填充页面的标题和 URL 。请勿删除此信息—它有助于我们识别您找到问题描述的页面。</block>
+  <block id="23ddca3dd72398443586add55c501d4c" category="paragraph"><block ref="23ddca3dd72398443586add55c501d4c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3c485ad3c399d7e7463d5becec3dd9d8" category="paragraph">在文本框中提供详细信息，然后单击 * 提交新问题描述 * 为您的请求创建问题描述。</block>
+  <block id="5c63259eb2557499deae26eab465ebcc" category="paragraph">我们将查看您的反馈并从中获取。</block>
+  <block id="8ec744b2290e1d3a33b0ff978e8eaf06" category="summary">现在，包含多个标题的每个页面都包含页面级导航。</block>
+  <block id="027d87552794088159597f2321cfc386" category="doc">页面级导航</block>
+  <block id="d99210b4612e0b4ade2c333c4c2880b7" category="paragraph">现在，包含多个部分的每个页面都包含页面级导航。</block>
+  <block id="cfb96590366980b52c3ed170b3ce4222" category="paragraph">通过此增强功能，您可以轻松地在滚动时查看所处位置，并跳至页面上的特定部分。</block>
+  <block id="58d64b9c7f50e3e860ba31a993332863" category="paragraph"><block ref="58d64b9c7f50e3e860ba31a993332863" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="705b9db16ffe253f6dbe6223378c2176" category="summary">通过添加突出显示内容，您可以更轻松地查看最受欢迎语言的语法。</block>
+  <block id="b1438fa6c9e31db5034f6307a11fe0fa" category="doc">语法突出显示</block>
+  <block id="2c6fbc3258a5f85566bcf97c08506130" category="paragraph">例如，以下是从 NetApp Cloud Central 获取用户令牌的语法：</block>
+  <block id="ca8bdf3ba678bd46df596707720379c3" category="paragraph">如您所见，我们还添加了一个 " 复制 " 按钮，用于轻松地将语法复制到剪贴板。</block>
+  <block id="996711c9b03859e62bd6cab82ba827d1" category="paragraph">下面是显示 JSON 输出的另一个示例：</block>
+  <block id="e177a21fa6914d742af2e7f0ae7cfb1c" category="paragraph">我们希望此增强功能对您有所帮助！</block>
+  <block id="9a843f20677a52ca79af903123147af0" category="sidebar">欢迎使用！</block>
+  <block id="05a5cf06982ba7892ed2a6d38fe832d6" category="sidebar">2021 年</block>
+  <block id="1c7921a67f24b39dedf2b8594ce0a1a9" category="sidebar">默认分支已重命名为 main</block>
+  <block id="7b7a53e239400a13bd6be6c91c4f6c4e" category="sidebar">2020 年</block>
+  <block id="bf55b1a83193261961e14a3aec8c15af" category="sidebar">NetApp HCI 文档更新</block>
+  <block id="ea6b2efbdd4255a9f1b3bbc6399b58f4" category="sidebar">2019 年</block>
+  <block id="6ffca96fa0c1e75da498221f958d9bfb" category="sidebar">适用于 SaaS Backup for Salesforce 的文档</block>
+  <block id="5b3e65e6745f99101c082b7c5f8aa36e" category="sidebar">适用于 Active IQ 的文档</block>
+  <block id="481c7743539d1dafecedea9c7530b5ab" category="sidebar">新增内容页面上的 rss 源</block>
+  <block id="571c738a85e0b49c979bfeb5bf13a8c4" category="sidebar">GitHub 为贡献者提供了支持</block>
+  <block id="84ddfb34126fc3a48ee38d7044e87276" category="sidebar">2018 年</block>
+  <block id="071ed14a37855c29609308bb1decd55d" category="sidebar">请求文档更改的新方式</block>
+  <block id="9b1c32128378aa74449702a04d7c2acf" category="sidebar">适用于 SaaS Backup for Office 365 的文档</block>
+  <block id="e148fb94b2111f44240663465c676324" category="sidebar">在 GitHub 中介绍 NetApp 文档</block>
+</blocks>

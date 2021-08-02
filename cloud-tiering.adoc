@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: cloud-tiering.html 
+keywords: announcements, documentation, cloud tiering 
+summary: '有关 NetApp 全新 Cloud Tiering 服务的文档，请参见 https://docs.netapp.com[]。' 
+last_modified: 03-Mar-2019 
+---
+= 适用于云分层的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+有关 NetApp 全新 Cloud Tiering 服务的文档，请参见 https://docs.netapp.com["docs.netapp.com"^]。
+
+基于 NetApp FabricPool 技术， Cloud Tiering 可识别 ONTAP 集群中不常用的数据，并自动无缝地将这些数据迁移到云中的低成本对象存储。
+
+转至 https://docs.netapp.com/us-en/cloud-tiering/["Cloud Tiering 文档"^] 了解如何开始使用。
+
+image:cloud-tiering.gif[""]

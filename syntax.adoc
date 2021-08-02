@@ -1,0 +1,55 @@
+---
+sidebar: sidebar 
+permalink: syntax.html 
+keywords: announcements, syntax highlighting 
+summary: 通过添加突出显示内容，您可以更轻松地查看最受欢迎语言的语法。 
+last_modified: 03-Dec-2018 
+---
+= 语法突出显示
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+通过添加突出显示内容，您可以更轻松地查看最受欢迎语言的语法。
+
+例如，以下是从 NetApp Cloud Central 获取用户令牌的语法：
+
+[source, http]
+----
+POST https://netapp-cloud-account.auth0.com/oauth/token
+Header: Content-Type: application/json
+Body:
+{
+              "username": "<user_email>",
+              "scope": "profile",
+              "audience": "https://api.cloud.netapp.com",
+              "client_id": "UaVhOIXMWQs5i1WdDxauXe5Mqkb34NJQ",
+              "grant_type": "password",
+              "password": "<user_password>"
+}
+----
+如您所见，我们还添加了一个 " 复制 " 按钮，用于轻松地将语法复制到剪贴板。
+
+下面是显示 JSON 输出的另一个示例：
+
+[source, json]
+----
+[
+    {
+        "header": {
+            "requestId": "init",
+            "clientId": "init",
+            "agentId": "init"
+        },
+        "payload": {
+            "init": {}
+        },
+        "id": "5801"
+    }
+]
+----
+我们希望此增强功能对您有所帮助！

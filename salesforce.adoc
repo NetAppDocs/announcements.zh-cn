@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: salesforce.html 
+keywords: announcements, documentation, salesforce, saas backup for salesforce 
+summary: '我们为新的 NetApp 服务添加了文档。有关 NetApp SaaS Backup for Salesforce 的文档，请参见 https://docs.netapp.com[]。' 
+last_modified: 04-Jun-2019 
+---
+= 适用于 NetApp SaaS Backup for Salesforce 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们为新的 NetApp 服务添加了文档。有关 NetApp SaaS Backup for Salesforce 的文档，请参见 https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp SaaS Backup 是一种安全的云原生服务，可将 Salesforce 数据备份到 Amazon S3 存储。SaaS Backup 有助于保护您的数据免受威胁或意外删除的影响。
+
+转至 https://docs.netapp.com/us-en/salesforce/["NetApp SaaS Backup for Salesforce 文档"^] 了解如何开始使用。
+
+image:salesforce.gif[""]

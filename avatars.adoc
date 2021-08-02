@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: avatars.html 
+keywords: announcements, avatars, github, contributors 
+summary: 现在，文档中的每个页面都包含 GitHub 中为该页面做出贡献的人员的 avatars 。这一变更有助于实现我们的目标，即让 NetApp Docs 成为社区驱动型企业。 
+last_modified: 19-Feb-2019 
+---
+= GitHub 为内容贡献者提供了支持
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+现在，文档中的每个页面都包含 GitHub 中为该页面做出贡献的人员的 avatars 。这一变更有助于实现我们的目标，即让 NetApp Docs 成为社区驱动型企业。
+
+您将看到通过创建提取请求对源内容进行更改的任何用户的 GitHub 头像。贡献者可以是客户， NetApp 合作伙伴或员工。以下是一个示例：
+
+image:avatars.gif[""]
+
+无论您是专家还是新手，都可以提交对内容的更改，您的贡献都将得到极大的关注。
+
+请注意， avatars 足够小，每次查看文档通过时，您都不会被 NetApp 作者的脸所淹没： [&#128521 ； ]

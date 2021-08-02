@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: request-doc-changes.html 
+keywords: announcements, github issues, request doc changes, request changes 
+summary: 如果您要请求更改文档，而不是直接编辑源内容，现在可以单击请求文档更改来提供反馈。 
+last_modified: 19-Feb-2019 
+---
+= 请求文档更改
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您要请求更改文档，而不是直接编辑源内容，现在可以单击 * 请求文档更改 * 来提供反馈。
+
+此新按钮将显示在每个页面的顶部：
+
+image:request-doc-changes.png[""]
+
+单击 * 请求文档更改 * 时，系统会提示您创建或登录到 GitHub 帐户（创建帐户既方便又免费）。
+
+登录后，将显示一个表单，用于创建新的 GitHub 问题描述。此文本框会预先填充页面的标题和 URL 。请勿删除此信息—它有助于我们识别您找到问题描述的页面。
+
+image:github-issue.png[""]
+
+在文本框中提供详细信息，然后单击 * 提交新问题描述 * 为您的请求创建问题描述。
+
+我们将查看您的反馈并从中获取。

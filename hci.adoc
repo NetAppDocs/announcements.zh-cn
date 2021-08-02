@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: hci.html 
+keywords: announcements, documentation, hci, hybrid, cloud 
+summary: NetApp HCI 云服务和解决方案文档现已发布。 
+last_modified: 20-Dec-2019 
+---
+= 适用于 NetApp HCI 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们添加了文档，用于在 NetApp HCI 上启用云服务以及访问 NetApp HCI 解决方案目录。
+
+转至 https://docs.netapp.com/us-en/hci/index.html["NetApp HCI 云服务和解决方案"] 了解如何在 NetApp HCI 上开始使用云服务，以及如何将解决方案与 NetApp HCI 结合使用。
+
+云服务信息介绍了如何使用 NetApp HCI 混合云控制启用云服务，如何使用 NetApp Kubernetes Service 创建集群和快速部署应用程序以及如何使用 NetApp Fabric Orchestrator 在 NetApp HCI 上创建云卷。Fabric Orchestrator 是一个集中式存储和数据管理控制平面，可在任何位置发现和管理存储资产和数据资产。
+
+image:hci_cloudservices.gif["NetApp HCI 云服务文档"]
+
+我们还添加了 NetApp HCI 解决方案目录，该目录可为客户提供部署和运行私有云所需的信息，支持涵盖内部和外部的各种使用情形。NetApp HCI 解决方案可在 DevOps ，最终用户计算，企业级应用程序，人工智能，数据保护和 Data Fabric 管理等技术领域为公有，私有云，混合云和多云提供增值功能。
+
+image:hci_solutions_catalog.gif["NetApp HCI 解决方案目录"]

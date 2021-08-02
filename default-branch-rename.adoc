@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: default-branch-rename.html 
+keywords: announcements, branches, github, main, master 
+summary: 我们已将 GitHub 中所有 NetApp 技术文档存储库的默认分支从 master 重命名为 main 。这一变更是我们为删除技术文档中的非包容性语言而持续努力的一部分。 
+last_modified: 05-Mar-2021 
+---
+= 默认分支已重命名为 "main"
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们已将中所有 NetApp 技术文档存储库的默认分支从 master 重命名为 main https://github.com/NetAppDocs/["GitHub"^]。这一变更是我们为删除技术文档中的非包容性语言而持续努力的一部分。
+
+image:default-branch-rename.png[""]

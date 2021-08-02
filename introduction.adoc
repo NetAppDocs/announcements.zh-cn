@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: introduction.html 
+keywords: announcements, avatars, github, contributors 
+summary: 我们很高兴地宣布，基于 GitHub 的第一个文档站点已启动— clouddocs.netapp.com—which 目前托管 Cloud Manager 和 Cloud Sync 的文档。 
+last_modified: 02-Feb-2018 
+---
+= 在 GitHub 中介绍 NetApp 文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们很高兴地宣布，基于 GitHub 的第一个文档站点已启动— clouddocs.netapp.com—which 目前托管 Cloud Manager 和 Cloud Sync 的文档。
+
+这些文档以 AsciDoc （类似于 Markdown 的轻型格式）编写，存储在 GitHub 存储库中，并在上作为 HTML 内容提供 https://docs.netapp.com["docs.netapp.com"^]。
+
+这种全新的文档体验提供了一些主要优势：
+
+* 快速更新内容
++
+我们正在利用云和开源资源来加快产品发布速度。
+
+* 社区贡献
++
+我们通过为任何人推荐实时编辑和增强功能，缩短了 NetApp 作者与客户之间的距离。
+
+* 响应迅速的设计
++
+该站点为用于访问 NetApp 文档的任何设备提供了响应式布局。
+
+
+
+我们计划不断改进该站点，并随着时间的推移添加更多内容。我们希望您喜欢它，我们期待您提供任何反馈。

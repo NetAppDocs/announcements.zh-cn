@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: rss.html 
+keywords: announcements, rss feeds 
+summary: '我们已在文档中的每个 " 新增功能 " 页面中添加了一个 "rs" 按钮，以便您可以在您喜爱的 "rss 源读者 " 中接收内容更新。这些订阅源可以让您随时了解 NetApp 产品和服务中引入的新功能和增强功能。' 
+last_modified: 21-Mar-2019 
+---
+= 有关新增内容的 rss 源和 #8217
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我们已在文档中的每个 " 新增功能 " 页面中添加了一个 "rs" 按钮，以便您可以在您喜爱的 "rss 源读者 " 中接收内容更新。这些订阅源可以让您随时了解 NetApp 产品和服务中引入的新功能和增强功能。
+
+转到您感兴趣的产品或服务的 " 新增功能 " 页面。以下是的示例 https://docs.netapp.com/us-en/cloud-tiering/reference_new.html["云分层服务"^]：
+
+image:rss.gif[""]
+
+根据您的订阅源读取器，复制页面 URL 或单击 * 订阅 * 并复制订阅源 URL 。在读者中搜索 URL 并开始关注。每次更新页面时，您都应在源中收到更新。
