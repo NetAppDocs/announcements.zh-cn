@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: astra_control_center.html 
+keywords: astra, netapp, announcements, documentation, hci, hybrid, cloud, astra control center, astra control 
+summary: NetApp 很高兴地宣布， Astra 控制中心的产品文档已发布。 
+last_modified: 16-August-2021 
+---
+= 适用于 Astra 控制中心的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp 很高兴地宣布， Astra 控制中心的产品文档已发布。
+
+本文档扩展了对 Astra 产品系列的内容支持，其中包括 Astra Control Service ， Astra Control Automation 和 Astra Trident 。Astra 控制中心支持对 Kubernetes 进行内部应用程序感知型数据管理，并将 Kubernetes 连接到新的或现有的内部 ONTAP 系统。
+
+Astra 控制中心文档站点提供了一些主题，可帮助您快速开始使用 Astra 控制中心，其中包括 https://docs.netapp.com/us-en/astra-control-center/concepts/intro.html["Astra 控制中心简介"^] 和 A以及有关使用 Astra 控制中心管理 Kubernetes 集群，应用程序，存储后端等的信息。
+
+有关 Astra 产品系列的文档，请访问：
+
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Astra 控制中心文档"^]
+* https://docs.netapp.com/us-en/astra/index.html["Astra Control Service 文档"^]
+* https://docs.netapp.com/us-en/astra-automation/["Astra Control 自动化文档"^]
+* https://netapp-trident.readthedocs.io/en/latest/index.html["Astra Trident 文档"^]
+
+
+NetApp 非常感谢对内容的反馈，并鼓励用户利用产品文档每一页上提供的 " 请求文档更改 " 功能。文档平台还为 GitHub 用户提供嵌入式内容贡献功能。
+
+请查看此文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至 https://docs.netapp.com/us-en/astra-control-center/index.html["NetApp Astra 控制中心文档"^] 开始。
+
+image:astra_control_center_doc2.gif["显示 docs.netapp.com 上 Astra 控制中心文档站点的屏幕截图。"]

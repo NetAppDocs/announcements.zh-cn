@@ -215,4 +215,25 @@
   <block id="071ed14a37855c29609308bb1decd55d" category="sidebar">请求文档更改的新方式</block>
   <block id="9b1c32128378aa74449702a04d7c2acf" category="sidebar">适用于 SaaS Backup for Office 365 的文档</block>
   <block id="e148fb94b2111f44240663465c676324" category="sidebar">在 GitHub 中介绍 NetApp 文档</block>
+  <block id="f850d546548119c76f210ab460b080c6" category="summary">NetApp 很高兴地宣布， Astra 控制中心的产品文档已发布。</block>
+  <block id="7f91881a4e5ca9171020102c29c19f58" category="doc">适用于 Astra 控制中心的文档</block>
+  <block id="f38fccfd815a280859dfd15d161865c3" category="paragraph">本文档扩展了对 Astra 产品系列的内容支持，其中包括 Astra Control Service ， Astra Control Automation 和 Astra Trident 。Astra 控制中心支持对 Kubernetes 进行内部应用程序感知型数据管理，并将 Kubernetes 连接到新的或现有的内部 ONTAP 系统。</block>
+  <block id="7339a613d4c674913deb90b3b3362fed" category="inline-link">Astra 控制中心简介</block>
+  <block id="a87da1b8e8afc29470ac85cf788e125c" category="inline-link">Astra 控制中心快速入门</block>
+  <block id="c3c02050d805dbc9ceac219fbb898972" category="paragraph">Astra 控制中心文档站点提供了一些主题，可帮助您快速开始使用 Astra 控制中心，其中包括<block ref="a95d2afae8745420ff43aacb977c87ea" category="inline-link-rx"></block> 和 A<block ref="85d3fc4f1d9c9c8b3625a5fe4a456b0d" category="inline-link-rx"></block>以及有关使用 Astra 控制中心管理 Kubernetes 集群，应用程序，存储后端等的信息。</block>
+  <block id="025b7e6e5bda835f17fe8cb4f83b500d" category="paragraph">有关 Astra 产品系列的文档，请访问：</block>
+  <block id="3a4b2c66d4bdac6ce0e3340c71a39eda" category="inline-link">Astra 控制中心文档</block>
+  <block id="ea643bf7aaf130341a17f697a7009368" category="list-text"><block ref="ea643bf7aaf130341a17f697a7009368" category="inline-link-rx"></block></block>
+  <block id="ef22ff17624b3faeed227ce5c717eb5f" category="inline-link">Astra Control Service 文档</block>
+  <block id="6762180adf48075df77efbf264e982ec" category="list-text"><block ref="6762180adf48075df77efbf264e982ec" category="inline-link-rx"></block></block>
+  <block id="ae62facd357433ca5e68bd73bbc985e8" category="inline-link">Astra Control 自动化文档</block>
+  <block id="6c0842d7964e2eb41e0d803e2ccc4cc2" category="list-text"><block ref="6c0842d7964e2eb41e0d803e2ccc4cc2" category="inline-link-rx"></block></block>
+  <block id="14d9b10c6196045941347a9e85704b50" category="inline-link">Astra Trident 文档</block>
+  <block id="27ad5f18f21813695f06091d7d929c12" category="list-text"><block ref="27ad5f18f21813695f06091d7d929c12" category="inline-link-rx"></block></block>
+  <block id="5fc5283f6ec17de5dc3a8219d59951d5" category="paragraph">NetApp 非常感谢对内容的反馈，并鼓励用户利用产品文档每一页上提供的 " 请求文档更改 " 功能。文档平台还为 GitHub 用户提供嵌入式内容贡献功能。</block>
+  <block id="46fd8823cd0c333029a4f02468f6a048" category="inline-link">NetApp Astra 控制中心文档</block>
+  <block id="e4d32a80a3a045bb2cb0ccae0bd727ad" category="paragraph">请查看此文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至<block ref="8e3a361e6788a8a4f34c9bb6c9d6b3ec" category="inline-link-rx"></block> 开始。</block>
+  <block id="39a11e28c8c10ce011a58d0519e841ad" category="inline-image-macro">显示 docs.netapp.com 上 Astra 控制中心文档站点的屏幕截图。</block>
+  <block id="ac29d6fdc8643e090db3f9c90af1db57" category="paragraph"><block ref="ac29d6fdc8643e090db3f9c90af1db57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e0447163b38775c5fca302b98047f8a2" category="list-text"><block ref="849c9fbef6c9fb4320c7cbf044a6864f" category="inline-link-macro-rx"></block> （ 2021 年 8 月 5 日）</block>
 </blocks>
