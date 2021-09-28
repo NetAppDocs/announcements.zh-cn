@@ -1,10 +1,12 @@
+---
 sidebar:
-  
   entries:
   - title: 欢迎使用！
     url: "/index.html"
   - title: 2021 年
     entries:
+    - title: 适用于 Astra Trident 的文档
+      url: "/astra-trident.html"
     - title: 适用于 Astra 控制中心的文档
       url: "/astra_control_center.html"
     - title: 默认分支已重命名为 main

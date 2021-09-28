@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: astra-trident.html 
+keywords: astra, trident, netapp, announcements, documentation 
+summary: NetApp 很高兴地宣布提供有关 Astra Trident 的产品文档。 
+last_modified: 16-August-2021 
+---
+= 适用于 Astra Trident 的文档
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp 很高兴地宣布， Astra Trident 的产品文档已发布在 https://www.netapp.com/support-and-training/documentation/["docs.netapp.com"]。
+
+Astra Trident 是一款符合容器存储接口（ CSI ）的动态存储编排程序，可用于在所有常见的 NetApp 存储平台上使用和管理存储资源。
+
+https://docs.netapp.com/us-en/trident/index.html["Astra Trident 文档"] 提供有助于快速开始使用 Astra Trident 的主题，包括 和 A以及有关升级 Astra Trident 的信息，以及以易于导航的格式提供的更多信息。
+
+本文档扩展了对包含的 Astra 产品系列的内容支持 https://docs.netapp.com/us-en/astra/index.html["Astra 控制服务"]，，和。
+
+image:astra-trident.png["显示 docs.netapp.com 上 Astra Trident 文档站点的屏幕截图。"]
+
+
+
+== 想要贡献自己的力量？
+
+NetApp 非常感谢对内容的反馈，并鼓励用户利用产品文档每一页上提供的 " 请求文档更改 " 功能。文档平台还为 GitHub 用户提供嵌入式内容贡献功能。
+
+请查看此文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至 https://docs.netapp.com/us-en/trident/index.html["NetApp Astra Trident 文档"^] 开始。

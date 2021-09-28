@@ -16,6 +16,7 @@ permalink: index.html
 
 以下是最新公告：
 
+* link:astra-trident.html["适用于 Astra Trident 的文档"] （ 2021 年 9 月 9 日）
 * link:astra_control_center.html["适用于 Astra 控制中心的文档"] （ 2021 年 8 月 5 日）
 * link:default-branch-rename.html["默认分支已重命名为 "main""] （ 2021 年 3 月 5 日）
 * link:hci-update.html["HCI 文档更新"] （ 2020 年 5 月 29 日）

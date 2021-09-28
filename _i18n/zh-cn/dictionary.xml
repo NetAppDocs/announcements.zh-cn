@@ -236,4 +236,21 @@
   <block id="39a11e28c8c10ce011a58d0519e841ad" category="inline-image-macro">显示 docs.netapp.com 上 Astra 控制中心文档站点的屏幕截图。</block>
   <block id="ac29d6fdc8643e090db3f9c90af1db57" category="paragraph"><block ref="ac29d6fdc8643e090db3f9c90af1db57" category="inline-image-macro-rx" type="image"></block></block>
   <block id="e0447163b38775c5fca302b98047f8a2" category="list-text"><block ref="849c9fbef6c9fb4320c7cbf044a6864f" category="inline-link-macro-rx"></block> （ 2021 年 8 月 5 日）</block>
+  <block id="f0fcc16ab49b209290308ac6fa936d99" category="summary">NetApp 很高兴地宣布提供有关 Astra Trident 的产品文档。</block>
+  <block id="b2659ea7bd2dc02b176860f71e92c02d" category="doc">适用于 Astra Trident 的文档</block>
+  <block id="8e957984d6e4a01fc1a87e256d382796" category="paragraph">NetApp 很高兴地宣布， Astra Trident 的产品文档已发布在<block ref="315379460c8d673ec8ed412b286951a4" category="inline-link-rx"></block>。</block>
+  <block id="b890af956381210db22f43bb6ed50a31" category="paragraph">Astra Trident 是一款符合容器存储接口（ CSI ）的动态存储编排程序，可用于在所有常见的 NetApp 存储平台上使用和管理存储资源。</block>
+  <block id="260a438318a45336bc25b495b2410333" category="inline-link">Astra Trident 简介</block>
+  <block id="42f8643eb52a942747937327c72c8361" category="inline-link">部署概述</block>
+  <block id="130d3a2c99344d7ddbdff3c14116e726" category="paragraph"><block ref="483e1d24e3d650accbb97eb1ede403e4" category="inline-link-rx"></block> 提供有助于快速开始使用 Astra Trident 的主题，包括<block ref="3c82646c2b0d168946721808a42b105e" category="inline-link-rx"></block> 和 A<block ref="fef7daa7054cfc5895c4f8480c2569c8" category="inline-link-rx"></block>以及有关升级 Astra Trident 的信息，以及以易于导航的格式提供的更多信息。</block>
+  <block id="35b46e301702b6fcb16192f9f4cf4533" category="inline-link">Astra 控制服务</block>
+  <block id="87081decba56eb52090a814e26495724" category="inline-link">Astra Control 自动化</block>
+  <block id="9c634046a90a62883b122e76b9afcef2" category="inline-link">Astra 控制中心</block>
+  <block id="69de00b79b32c269763eb6a322ceff1e" category="paragraph">本文档扩展了对包含的 Astra 产品系列的内容支持<block ref="a60edd0f49d13d6bb9b2af16b2cbbdd5" category="inline-link-rx"></block>，<block ref="2f06701930d5d1d785905eefbc482f24" category="inline-link-rx"></block>，和<block ref="6653b3fa72bfc9c83d8e5fede6da40f0" category="inline-link-rx"></block>。</block>
+  <block id="41e9974be0689901f5d5b1ac60055273" category="inline-image-macro">显示 docs.netapp.com 上 Astra Trident 文档站点的屏幕截图。</block>
+  <block id="32afb2c13dc7c44f051b5e8fdddd25ac" category="paragraph"><block ref="32afb2c13dc7c44f051b5e8fdddd25ac" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f6c27fd7b4e8b1709f99ae0dac55b543" category="section-title">想要贡献自己的力量？</block>
+  <block id="752f9ff9f4842abac53d8c0aec2188b0" category="inline-link">NetApp Astra Trident 文档</block>
+  <block id="5b2ac7349892d38080d27249f9f7275c" category="paragraph">请查看此文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至<block ref="83cd7cbefde0940dfcdd838ab819e938" category="inline-link-rx"></block> 开始。</block>
+  <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> （ 2021 年 9 月 9 日）</block>
 </blocks>
