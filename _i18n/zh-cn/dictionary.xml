@@ -83,7 +83,6 @@
   <block id="163d026b849195b6f6272437e6a79209" category="paragraph">转至<block ref="807e3f80ca0c2c5e2529f8974c05a3ad" category="inline-link-rx"></block> 了解如何开始使用。</block>
   <block id="6c3ecb751bd708b13e900094cf942926" category="paragraph"><block ref="6c3ecb751bd708b13e900094cf942926" category="inline-image-macro-rx" type="image"></block></block>
   <block id="37a8cfd772c8abc4580a796f3269f47c" category="summary">我们已在文档中的每个 " 新增功能 " 页面中添加了一个 "rs" 按钮，以便您可以在您喜爱的 "rss 源读者 " 中接收内容更新。这些订阅源可以让您随时了解 NetApp 产品和服务中引入的新功能和增强功能。</block>
-  <block id="f9d2bef3f933675408363de6ee6befcc" category="doc">有关新增内容的 rss 源和 #8217</block>
   <block id="1457e49f8dccec856889afc7198d7b7f" category="inline-link">云分层服务</block>
   <block id="3872ba83279a8e314096c5b922d90428" category="paragraph">转到您感兴趣的产品或服务的 " 新增功能 " 页面。以下是的示例<block ref="d4507f8d464d714b843db28c6932e942" category="inline-link-rx"></block>：</block>
   <block id="6748f7beddaefd31416ca3654ffdf13c" category="paragraph"><block ref="6748f7beddaefd31416ca3654ffdf13c" category="inline-image-macro-rx" type="image"></block></block>
@@ -253,4 +252,5 @@
   <block id="752f9ff9f4842abac53d8c0aec2188b0" category="inline-link">NetApp Astra Trident 文档</block>
   <block id="5b2ac7349892d38080d27249f9f7275c" category="paragraph">请查看此文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至<block ref="83cd7cbefde0940dfcdd838ab819e938" category="inline-link-rx"></block> 开始。</block>
   <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> （ 2021 年 9 月 9 日）</block>
+  <block id="5dc86df28e80ea7547427158e7beedf6" category="doc">新增页面上的 rss 源</block>
 </blocks>

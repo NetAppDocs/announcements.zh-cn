@@ -5,7 +5,7 @@ keywords: announcements, rss feeds
 summary: '我们已在文档中的每个 " 新增功能 " 页面中添加了一个 "rs" 按钮，以便您可以在您喜爱的 "rss 源读者 " 中接收内容更新。这些订阅源可以让您随时了解 NetApp 产品和服务中引入的新功能和增强功能。' 
 last_modified: 21-Mar-2019 
 ---
-= 有关新增内容的 rss 源和 #8217
+= 新增页面上的 rss 源
 :hardbreaks:
 :nofooter: 
 :icons: font
