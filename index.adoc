@@ -4,6 +4,7 @@ permalink: index.html
 ---
 = NetApp 文档公告
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

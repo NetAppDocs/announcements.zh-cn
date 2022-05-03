@@ -7,6 +7,7 @@ last_modified: 17-Jun-2018
 ---
 = 适用于 Cloud Insights 的文档
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

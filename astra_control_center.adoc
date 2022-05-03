@@ -7,6 +7,7 @@ last_modified: 16-August-2021
 ---
 = 适用于 Astra 控制中心的文档
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
@@ -18,7 +19,7 @@ NetApp 很高兴地宣布， Astra 控制中心的产品文档已发布。
 
 本文档扩展了对 Astra 产品系列的内容支持，其中包括 Astra Control Service ， Astra Control Automation 和 Astra Trident 。Astra 控制中心支持对 Kubernetes 进行内部应用程序感知型数据管理，并将 Kubernetes 连接到新的或现有的内部 ONTAP 系统。
 
-Astra 控制中心文档站点提供了一些主题，可帮助您快速开始使用 Astra 控制中心，其中包括 https://docs.netapp.com/us-en/astra-control-center/concepts/intro.html["Astra 控制中心简介"^] 和 A以及有关使用 Astra 控制中心管理 Kubernetes 集群，应用程序，存储后端等的信息。
+Astra 控制中心文档站点提供了一些主题，可帮助您快速开始使用 Astra 控制中心，其中包括 https://docs.netapp.com/us-en/astra-control-center/concepts/intro.html["Astra 控制中心简介"^] 和 A https://docs.netapp.com/us-en/astra-control-center/get-started/quick-start.html["Astra 控制中心快速入门"^]以及有关使用 Astra 控制中心管理 Kubernetes 集群，应用程序，存储后端等的信息。
 
 有关 Astra 产品系列的文档，请访问：
 

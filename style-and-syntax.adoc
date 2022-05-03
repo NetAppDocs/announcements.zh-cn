@@ -7,6 +7,7 @@ last_modified: 24-Oct-2019
 ---
 = 样式指南和语法参考
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

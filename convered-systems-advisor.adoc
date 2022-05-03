@@ -7,6 +7,7 @@ last_modified: 12-Sep-2018
 ---
 = 适用于 Converged Systems Advisor 的文档
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

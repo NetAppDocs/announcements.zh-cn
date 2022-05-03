@@ -7,6 +7,7 @@ last_modified: 17-Mar-2020
 ---
 = 增强的用户体验
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

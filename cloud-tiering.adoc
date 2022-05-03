@@ -7,6 +7,7 @@ last_modified: 03-Mar-2019
 ---
 = 适用于云分层的文档
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

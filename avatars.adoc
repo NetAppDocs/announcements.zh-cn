@@ -7,6 +7,7 @@ last_modified: 19-Feb-2019
 ---
 = GitHub 为内容贡献者提供了支持
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -7,6 +7,7 @@ last_modified: 02-Feb-2018
 ---
 = 在 GitHub 中介绍 NetApp 文档
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -7,6 +7,7 @@ last_modified: 04-Jun-2018
 ---
 = 适用于 Cloud Volumes ONTAP 的文档
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
@@ -18,4 +19,4 @@ Cloud Volumes ONTAP 发行说明现已发布在上 https://docs.netapp.com["docs
 
 Cloud Volumes ONTAP 将数据控制与企业级存储功能相结合，适用于各种使用情形，包括文件共享和块级存储，为 NAS 和 SAN 协议（ NFS ， SMB 和 iSCSI ）提供服务，灾难恢复（ DR ），备份和归档， 开发运营，数据库（ SQL ， Oracle ， NoSQL ）或任何其他企业工作负载。
 
-转至 https://docs.netapp.com/us-en/cloud-volumes-ontap/["Cloud Volumes ONTAP 文档"^] 以查看发行说明。如果您需要说明如何部署和管理 Cloud Volumes ONTAP 的文档，请参见。
+转至 https://docs.netapp.com/us-en/cloud-volumes-ontap/["Cloud Volumes ONTAP 文档"^] 以查看发行说明。如果您需要说明如何部署和管理 Cloud Volumes ONTAP 的文档，请参见 https://docs.netapp.com/us-en/occm/["Cloud Manager 文档"^]。
