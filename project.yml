@@ -14,6 +14,8 @@ sidebar:
     url: "/index.html"
   - title: 2021 年
     entries:
+    - title: 适用于Astra产品系列的文档
+      url: "/astra-family.html"
     - title: 适用于Astra数据存储的文档
       url: "/astra-data-store.html"
     - title: 适用于 Astra Trident 的文档

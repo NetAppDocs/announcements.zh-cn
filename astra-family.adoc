@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: astra-family.html 
+keywords: astra, netapp, announcements, documentation, cloud, astra control, astra data store 
+summary: NetApp很高兴地宣布提供有关Astra产品系列的产品文档。 
+---
+= 适用于Astra产品系列的文档
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp很高兴地宣布、Astra产品系列的产品文档已发布在 https://docs.netapp.com/us-en/astra-family/index.html["Astra 产品系列文档"^]。
+
+在此页面上、您可以设置一个筛选器、以便仅查看所需产品的文档。
+
+有关Astra产品系列的文档、请单独访问：
+
+* https://docs.netapp.com/us-en/astra-control-service/index.html["Astra Control Service 文档"^]
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Astra 控制中心文档"^]
+* https://docs.netapp.com/us-en/astra-data-store/index.html["Astra Data Store 文档"^]
+* https://docs.netapp.com/us-en/trident/index.html["Astra Trident 文档"^]
+* https://docs.netapp.com/us-en/astra-automation/["Astra Control 自动化文档"^]
+
+
+image:astra-family-doc.png["显示docs.netapp.com上Astra产品系列文档站点的屏幕截图。"]
