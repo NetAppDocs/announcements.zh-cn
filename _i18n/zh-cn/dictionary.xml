@@ -253,4 +253,20 @@
   <block id="5b2ac7349892d38080d27249f9f7275c" category="paragraph">请查看此文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至<block ref="83cd7cbefde0940dfcdd838ab819e938" category="inline-link-rx"></block> 开始。</block>
   <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> （ 2021 年 9 月 9 日）</block>
   <block id="5dc86df28e80ea7547427158e7beedf6" category="doc">新增页面上的 rss 源</block>
+  <block id="53c97bf46bf800b6a33e8ff980b66d42" category="summary">NetApp很高兴地宣布提供有关Astra Data Store的产品文档。</block>
+  <block id="a6cbfa04701bd567fe3bf8ce91ea2b7e" category="doc">适用于Astra Data Store的文档预览版</block>
+  <block id="f89b313476e569f998bee434dd0dc86a" category="paragraph">NetApp很高兴地宣布、可提供用于Astra Data Store预览版的产品文档。</block>
+  <block id="20009171a360ffaac6edddffe5a3fc2d" category="paragraph">Astra 数据存储为 Kubernetes 原生容器化应用程序提供持久存储和数据管理服务。</block>
+  <block id="37959e564907b732d47b2d2b7fb246ae" category="inline-link">Astra数据存储简介</block>
+  <block id="f0b65328b01ef9e6301a81ee7e9ed23f" category="inline-link">Astra 数据存储快速入门</block>
+  <block id="d5065eb03a82c1ae3a1bf0a4ab3d7172" category="paragraph">Astra数据存储文档站点提供了一些主题、可帮助您快速开始使用Astra数据存储、其中包括<block ref="80de2ad386e9c8f92629f9d9f11704ae" category="inline-link-rx"></block> 和 A<block ref="4415b524e01228e417a30a741d057489" category="inline-link-rx"></block>。</block>
+  <block id="8c12e73d5653755d89cc3e42b0fa4b92" category="list-text"><block ref="8c12e73d5653755d89cc3e42b0fa4b92" category="inline-link-rx"></block></block>
+  <block id="be1c3d3113c4023e29e8dd947523c711" category="inline-link">Astra Data Store 文档</block>
+  <block id="c54241e3258a450b02a723d6d751a4f1" category="list-text"><block ref="c54241e3258a450b02a723d6d751a4f1" category="inline-link-rx"></block></block>
+  <block id="4a2ab62188738135163aaaaeab1d6cfe" category="list-text"><block ref="4a2ab62188738135163aaaaeab1d6cfe" category="inline-link-rx"></block></block>
+  <block id="014828bc1739673f4282e9c1e033c817" category="inline-link">NetApp Astra Data Store文档</block>
+  <block id="23a174d0fecd8b79bd5e5f2fd9a4b732" category="paragraph">请查看此文档并为其提供帮助。您可以编辑，请求更改甚至发送反馈。转至<block ref="c1fdd849cd3e68be35f6562f41c2974e" category="inline-link-rx"></block> 开始。</block>
+  <block id="156e6378a5fcd89f3957166fe15f0100" category="inline-image-macro">显示docs.netapp.com上Astra Data Store文档站点的屏幕截图。</block>
+  <block id="96ded59f7edd6be28a9cc2e4c72e2154" category="paragraph"><block ref="96ded59f7edd6be28a9cc2e4c72e2154" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="df2d39488ab03675c8a9dc9281c24061" category="sidebar">适用于Astra数据存储的文档</block>
 </blocks>
