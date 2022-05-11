@@ -118,7 +118,6 @@
   <block id="977d060fa712ca5cada2a4970afaa133" category="inline-image-macro">显示 docs.netapp.com 上 HCI 文档站点的屏幕截图。</block>
   <block id="ca35e8cf90586807dac031bf95a384b8" category="paragraph"><block ref="ca35e8cf90586807dac031bf95a384b8" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c2090ebcb81deebf8dfe7bcc3bf5b97e" category="doc">NetApp 文档公告</block>
-  <block id="7c96569c18e233bc3aa0c678f6c737a3" category="paragraph">2018 年 2 月，我们在上发布了基于 GitHub 的文档<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>的目标是更快地为您提供内容，同时为社区做出贡献。我们不断添加新内容并改进内容体验。请观看此页面，了解最新变更信息。</block>
   <block id="76d676de13da507e21b2b97274f3143d" category="paragraph">以下是最新公告：</block>
   <block id="d1562fb6b39b6bdf3504b3a6ccfef304" category="list-text"><block ref="e5f966226f45758ecad5359af5797bd3" category="inline-link-macro-rx"></block> （ 2021 年 3 月 5 日）</block>
   <block id="b629fc52d1588569a2f633d0a7e6adc9" category="inline-link-macro">HCI 文档更新</block>
@@ -277,4 +276,7 @@
   <block id="8509a89843a1cc311a72568e21b9f186" category="paragraph">有关Astra产品系列的文档、请单独访问：</block>
   <block id="1f4fecd353e4238c2e06f3ef57ff2e17" category="inline-image-macro">显示docs.netapp.com上Astra产品系列文档站点的屏幕截图。</block>
   <block id="381832760c8906b714e74dd9ad500811" category="paragraph"><block ref="381832760c8906b714e74dd9ad500811" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cc1e2e4d06b5279262a7484fd9caf5e8" category="paragraph">2018 年 2 月，我们在上发布了基于 GitHub 的文档<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block> 目标是更快地为您提供内容、同时为社区做出贡献。我们不断添加新内容并改进内容体验。请观看此页面，了解最新变更信息。</block>
+  <block id="c4fefb6ca24717726d93c2d157040d85" category="list-text"><block ref="88161053bf68ebf3ccb9af70047493c1" category="inline-link-macro-rx"></block> (2021年12月12日)</block>
+  <block id="32f90be6a0e21853e772122e0def388b" category="list-text"><block ref="20a80c78f416319e0e8d17d7e76a9dbb" category="inline-link-macro-rx"></block> (2021年11月11日)</block>
 </blocks>

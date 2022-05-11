@@ -13,10 +13,12 @@ permalink: index.html
 
 
 [role="lead"]
-2018 年 2 月，我们在上发布了基于 GitHub 的文档 https://docs.netapp.com["docs.netapp.com"^]的目标是更快地为您提供内容，同时为社区做出贡献。我们不断添加新内容并改进内容体验。请观看此页面，了解最新变更信息。
+2018 年 2 月，我们在上发布了基于 GitHub 的文档 https://docs.netapp.com["docs.netapp.com"^] 目标是更快地为您提供内容、同时为社区做出贡献。我们不断添加新内容并改进内容体验。请观看此页面，了解最新变更信息。
 
 以下是最新公告：
 
+* link:astra-data-store.html["适用于Astra数据存储的文档"] (2021年12月12日)
+* link:astra-family.html["适用于Astra产品系列的文档"] (2021年11月11日)
 * link:astra-trident.html["适用于 Astra Trident 的文档"] （ 2021 年 9 月 9 日）
 * link:astra_control_center.html["适用于 Astra 控制中心的文档"] （ 2021 年 8 月 5 日）
 * link:default-branch-rename.html["默认分支已重命名为 "main""] （ 2021 年 3 月 5 日）
